@@ -10,12 +10,12 @@ Problem Statement:
 Support teams need a structured way to categorize tickets, prioritize urgent issues, and monitor SLA compliance.
 
 Solution Approach:
-- Data loading and exploration
-- Text cleaning and normalization
-- Rule-based issue classification
-- Priority assignment (P0–P3)
-- SLA hour calculation and due-time estimation
-- Support manager summary report generation
+- Data loading and exploration.
+- Text cleaning and normalization.
+- Rule-based issue classification.
+- Priority assignment (P0–P3).
+- SLA hour calculation and due-time estimation.
+- Support manager summary report generation.
 
 Tools & Technologies:
 - Python
@@ -24,10 +24,10 @@ Tools & Technologies:
 - GitHub
 
 Outputs:
-- 'final_customer_support_report.csv': Ticket-level processed dataset
-- 'support_manager_summary.csv': Aggregated manager-level report
+- 'final_customer_support_report.csv': Ticket-level processed dataset.
+- 'support_manager_summary.csv': Aggregated manager-level report.
 
 Future Improvements:
-- Machine learning-based classification
-- Real-time SLA breach alerts
-- Power BI dashboard integration
+- Machine learning-based classification.
+- Real-time SLA breach alerts.
+- Power BI dashboard integration.
